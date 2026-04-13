@@ -33,8 +33,7 @@ export const siteContent = {
     address:
       "Ave. Presidente Antonio Guzmán Fernández, entrada a la Urb. Caperuza II, Garden Plaza, local L15 y L18",
     shortAddress: "Garden Plaza, locales L15 y L18",
-    mapQuery:
-      "Ave. Presidente Antonio Guzmán Fernández, entrada a la Urb. Caperuza II, Garden Plaza, local L15 y L18, San Francisco de Macorís, República Dominicana",
+    mapQuery: "18.813826659725844,-70.44768863229132",
     hashtags: ["#dentistry", "#implants"],
   },
   seo: {
