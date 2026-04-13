@@ -100,7 +100,7 @@ export default function Contact() {
                 <p className="text-sm font-semibold text-foreground">Escribir por WhatsApp</p>
               </a>
               <a
-                href={`https://www.google.com/maps?q=${encodeURIComponent(siteContent.brand.mapQuery)}`}
+                href={siteContent.brand.mapUrl}
                 target="_blank"
                 rel="noreferrer"
                 className="glass-card rounded-[1.5rem] p-5 text-center transition-all duration-300 hover:-translate-y-1 hover:shadow-lg"
@@ -182,7 +182,7 @@ export default function Contact() {
                   <p className="mt-1 text-sm text-muted-foreground">{siteContent.brand.city}, República Dominicana</p>
                 </div>
                 <a
-                  href={`https://www.google.com/maps?q=${encodeURIComponent(siteContent.brand.mapQuery)}`}
+                  href={siteContent.brand.mapUrl}
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center gap-2 rounded-full border border-navy/15 bg-navy/5 px-4 py-2 text-xs font-medium uppercase tracking-[0.18em] text-navy transition-colors hover:bg-navy/10"

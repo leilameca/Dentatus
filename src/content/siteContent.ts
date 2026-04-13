@@ -33,7 +33,8 @@ export const siteContent = {
     address:
       "Ave. Presidente Antonio Guzmán Fernández, entrada a la Urb. Caperuza II, Garden Plaza, local L15 y L18",
     shortAddress: "Garden Plaza, locales L15 y L18",
-    mapQuery: "18.813826659725844,-70.44768863229132",
+    mapQuery: "Dentatus, Ave. Presidente Antonio Guzmán Fernández, Garden Plaza, locales L15 y L18, San Francisco de Macorís, República Dominicana",
+    mapUrl: "https://maps.app.goo.gl/CSCYnU54C1d7osT49",
     hashtags: ["#dentistry", "#implants"],
   },
   seo: {
