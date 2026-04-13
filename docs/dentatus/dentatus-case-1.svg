@@ -1,0 +1,10 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" rx="36" fill="#F5F7F7"/>
+  <rect x="26" y="26" width="1148" height="848" rx="28" fill="#24383B"/>
+  <rect x="112" y="106" width="402" height="620" rx="28" fill="#FFFFFF"/>
+  <rect x="688" y="172" width="402" height="620" rx="28" fill="#DDE7E7"/>
+  <text x="313" y="786" text-anchor="middle" fill="#FFFFFF" font-size="26" font-family="Manrope, Arial, sans-serif">ANTES</text>
+  <text x="889" y="786" text-anchor="middle" fill="#FFFFFF" font-size="26" font-family="Manrope, Arial, sans-serif">DESPUÉS</text>
+  <text x="600" y="100" text-anchor="middle" fill="#9DBB45" font-size="32" font-family="Manrope, Arial, sans-serif" font-weight="700">dentatus-case-1.jpg</text>
+  <text x="600" y="840" text-anchor="middle" fill="#DDE7E7" font-size="24" font-family="Manrope, Arial, sans-serif">Placeholder para caso real autorizado</text>
+</svg>

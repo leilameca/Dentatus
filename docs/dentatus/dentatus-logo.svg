@@ -1,0 +1,26 @@
+<svg width="600" height="220" viewBox="0 0 600 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="220" rx="36" fill="#FFFFFF"/>
+  <rect x="10" y="10" width="580" height="200" rx="28" fill="url(#bg)" stroke="#D8E0E1"/>
+  <g transform="translate(42 38)">
+    <circle cx="66" cy="72" r="58" fill="#F5F7F7" stroke="#D8E0E1" stroke-width="2"/>
+    <path d="M50 26C35 40 35 61 44 74C47 78 50 83 50 92C50 109 61 122 77 122C94 122 104 109 104 93C104 83 109 76 114 69C124 54 121 35 107 24" stroke="#9DBB45" stroke-width="7" stroke-linecap="round"/>
+    <path d="M57 46C66 39 80 39 89 46" stroke="#24383B" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="106" cy="30" r="5" fill="#62A6AF"/>
+    <circle cx="119" cy="50" r="5" fill="#62A6AF"/>
+    <circle cx="125" cy="73" r="5" fill="#62A6AF"/>
+    <circle cx="118" cy="96" r="5" fill="#62A6AF"/>
+    <circle cx="103" cy="116" r="5" fill="#62A6AF"/>
+    <circle cx="24" cy="36" r="4" fill="#62A6AF"/>
+    <circle cx="14" cy="58" r="4" fill="#62A6AF"/>
+    <circle cx="11" cy="81" r="4" fill="#62A6AF"/>
+  </g>
+  <text x="182" y="96" fill="#24383B" font-size="58" font-family="Manrope, Arial, sans-serif" font-weight="700">Dentatus</text>
+  <text x="182" y="130" fill="#5C6668" font-size="20" font-family="Manrope, Arial, sans-serif" letter-spacing="0.18em">CENTRO DE ESPECIALIDADES ODONTOLÓGICAS</text>
+  <text x="182" y="164" fill="#9DBB45" font-size="22" font-family="Manrope, Arial, sans-serif" font-weight="600">San Francisco de Macorís</text>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="600" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#F5F7F7"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" href="%BASE_URL%dentatus/dentatus-logo.png" />
+    <link rel="apple-touch-icon" href="%BASE_URL%dentatus/dentatus-logo.png" />
+    <title>Dentatus | Clínica Dental en San Francisco de Macorís</title>
+    <meta
+      name="description"
+      content="Dentatus es una clínica dental en San Francisco de Macorís enfocada en atención profesional, procedimientos odontológicos, restauración dental y cuidado integral de tu sonrisa."
+    />
+    <meta name="author" content="Dentatus" />
+    <meta name="theme-color" content="#24383B" />
+    <meta property="og:title" content="Dentatus | Clínica Dental en San Francisco de Macorís" />
+    <meta
+      property="og:description"
+      content="Atención odontológica profesional, humana y confiable en San Francisco de Macorís. Procedimientos, restauración dental y cuidado integral de tu sonrisa."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="es_DO" />
+    <meta property="og:image" content="%BASE_URL%dentatus/dentatus-hero.svg" />
+    <meta property="og:image:alt" content="Identidad visual de Dentatus, centro de especialidades odontológicas." />
+    <meta name="twitter:title" content="Dentatus | Clínica Dental en San Francisco de Macorís" />
+    <meta
+      name="twitter:description"
+      content="Clínica dental enfocada en atención profesional, restauración dental, implantes y cuidado integral de tu sonrisa."
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="%BASE_URL%dentatus/dentatus-hero.svg" />
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Dentist",
+        "name": "Dentatus",
+        "description": "Centro de especialidades odontológicas en San Francisco de Macorís.",
+        "image": "%BASE_URL%dentatus/dentatus-hero.svg",
+        "telephone": "+1-849-858-9889",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "Ave. Presidente Antonio Guzmán Fernández, entrada a la Urb. Caperuza II, Garden Plaza, local L15 y L18",
+          "addressLocality": "San Francisco de Macorís",
+          "addressCountry": "DO"
+        },
+        "sameAs": ["https://www.instagram.com/dentatussfm/"]
+      }
+    </script>
+    <script>
+      (function () {
+        var docsRoot = "/lujan-smile-journey/docs/";
+        var isGitHubPages = window.location.hostname === "leilameca.github.io";
+
+        if (isGitHubPages && window.location.pathname.indexOf(docsRoot) !== 0) {
+          window.location.replace(docsRoot + window.location.search + window.location.hash);
+        }
+      })();
+    </script>
+  </head>
+
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

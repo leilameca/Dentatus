@@ -1,0 +1,10 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" rx="44" fill="#EEF2F2"/>
+  <rect x="28" y="28" width="844" height="1144" rx="32" fill="#24383B"/>
+  <circle cx="450" cy="390" r="152" fill="#FFFFFF" fill-opacity="0.14"/>
+  <circle cx="450" cy="366" r="108" fill="#FFFFFF"/>
+  <rect x="292" y="506" width="316" height="286" rx="158" fill="#FFFFFF"/>
+  <path d="M246 1030C270 880 344 810 450 810C556 810 630 880 654 1030" fill="#FFFFFF"/>
+  <text x="450" y="1082" text-anchor="middle" fill="#9DBB45" font-size="34" font-family="Manrope, Arial, sans-serif" font-weight="700">dentatus-team-3.jpg</text>
+  <text x="450" y="1128" text-anchor="middle" fill="#DDE7E7" font-size="22" font-family="Manrope, Arial, sans-serif">Placeholder editable para foto del equipo</text>
+</svg>

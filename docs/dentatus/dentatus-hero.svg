@@ -1,0 +1,25 @@
+<svg width="1600" height="1080" viewBox="0 0 1600 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="1080" fill="#24383B"/>
+  <rect width="1600" height="1080" fill="url(#heroBg)"/>
+  <circle cx="1310" cy="258" r="296" fill="#9DBB45" fill-opacity="0.14"/>
+  <circle cx="1402" cy="842" r="344" fill="#FFFFFF" fill-opacity="0.08"/>
+  <circle cx="322" cy="934" r="274" fill="#62A6AF" fill-opacity="0.08"/>
+  <path d="M1035 161C1122 170 1204 232 1233 313C1267 409 1237 531 1164 613C1092 694 978 734 874 719C760 702 657 621 623 507C592 404 629 292 709 221C794 146 914 145 1035 161Z" fill="#F5F7F7" fill-opacity="0.08"/>
+  <rect x="118" y="146" width="662" height="788" rx="40" fill="#FFFFFF" fill-opacity="0.08" stroke="#FFFFFF" stroke-opacity="0.16"/>
+  <rect x="164" y="192" width="570" height="696" rx="32" fill="#FFFFFF" fill-opacity="0.05"/>
+  <rect x="214" y="252" width="212" height="22" rx="11" fill="#9DBB45"/>
+  <text x="214" y="356" fill="#FFFFFF" font-size="84" font-family="Manrope, Arial, sans-serif" font-weight="700">Dentatus</text>
+  <text x="214" y="416" fill="#DDE7E7" font-size="32" font-family="Manrope, Arial, sans-serif">Placeholder para imagen principal</text>
+  <text x="214" y="468" fill="#DDE7E7" font-size="32" font-family="Manrope, Arial, sans-serif">del hero clínico.</text>
+  <text x="214" y="566" fill="#9DBB45" font-size="28" font-family="Manrope, Arial, sans-serif" font-weight="700">Reemplazar por:</text>
+  <text x="214" y="614" fill="#FFFFFF" font-size="30" font-family="Manrope, Arial, sans-serif">dentatus-hero.jpg</text>
+  <text x="214" y="712" fill="#DDE7E7" font-size="26" font-family="Manrope, Arial, sans-serif">Sugerencia visual: equipo clínico real,</text>
+  <text x="214" y="752" fill="#DDE7E7" font-size="26" font-family="Manrope, Arial, sans-serif">consulta profesional o sonrisa natural.</text>
+  <defs>
+    <linearGradient id="heroBg" x1="114" y1="85" x2="1444" y2="1000" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#24383B"/>
+      <stop offset="0.52" stop-color="#2E3A3D"/>
+      <stop offset="1" stop-color="#1F2A2C"/>
+    </linearGradient>
+  </defs>
+</svg>
